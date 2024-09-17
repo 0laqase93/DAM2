@@ -17,7 +17,7 @@ try:
         palabras += len(linea.split(" "))
         caracteres += len(linea)
 
-    print(f"[+] El archivo tiene {lineas} lineas, {palabras} palabras y {caracteres} caracteres")
+    print(f"[+] El archivo tiene {lineas} líneas, {palabras} palabras y {caracteres} carácteres")
 
     archivo.close()
 except FileNotFoundError:

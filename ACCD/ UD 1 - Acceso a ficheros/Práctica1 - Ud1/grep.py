@@ -11,7 +11,7 @@ try:
     while linea:
         if expr in linea:
             linea = linea.replace(expr, '\033[1m' + '\033[32m' + expr + '\033[0m')
-            print(linea)
+            print(linea, end="")
         linea = archivo.readline().lower()
 
 except FileNotFoundError:
