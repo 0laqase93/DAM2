@@ -18,8 +18,8 @@ class Clase:
         print(self.texto.upper())
 
     def rev_string(self):
-        self.texto = self.texto[::-1]
-        return self.texto
+        self.texto = self.texto.split()[::-1]
+        return " ".join(self.texto)
 
 clase = Clase()
 clase.get_string("Mi Diario Python")
