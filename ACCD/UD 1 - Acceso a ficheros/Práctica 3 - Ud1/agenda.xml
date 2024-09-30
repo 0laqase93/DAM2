@@ -1,0 +1,58 @@
+<agenda>
+    <contacto>
+        <nombre>Manolo</nombre>
+        <apellido>Castilla</apellido>
+        <email>juan.perez@example.com</email>
+        <telefono1>123456789</telefono1>
+        <telefono2>987654321</telefono2>
+        <direccion>Calle Falsa 123</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Maria</nombre>
+        <apellido>Garc&#237;a</apellido>
+        <email>maria.garcia@example.com</email>
+        <telefono1>555123456</telefono1>
+        <telefono2 />
+        <direccion>Avenida Siempre Viva 742</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Carlos</nombre>
+        <apellido>L&#243;pez</apellido>
+        <email>carlos.lopez@example.com</email>
+        <telefono1>666789123</telefono1>
+        <telefono2>111222333</telefono2>
+        <direccion>Calle Verde 456</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Ana</nombre>
+        <apellido>Mart&#237;nez</apellido>
+        <email>ana.martinez@example.com</email>
+        <telefono1>444555666</telefono1>
+        <telefono2>888777666</telefono2>
+        <direccion>Paseo del Prado 78</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Luis</nombre>
+        <apellido>Ram&#237;rez</apellido>
+        <email>luis.ramirez@example.com</email>
+        <telefono1>777888999</telefono1>
+        <telefono2 />
+        <direccion>Calle Azul 123</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Sof&#237;a</nombre>
+        <apellido>M&#233;ndez</apellido>
+        <email>sofia.mendez@example.com</email>
+        <telefono1>321654987</telefono1>
+        <telefono2>555666777</telefono2>
+        <direccion>Calle de la Luna 42</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Diego</nombre>
+        <apellido>Mu&#241;oz</apellido>
+        <email>manolo@gmail.com</email>
+        <telefono1>12345852</telefono1>
+        <telefono2>123456258</telefono2>
+        <direccion>suCasa 123</direccion>
+    </contacto>
+    </agenda>
