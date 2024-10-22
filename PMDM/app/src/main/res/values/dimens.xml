@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top">40dp</dimen>
+    <dimen name="margin_bottom">20dp</dimen>
+    <dimen name="radius">15dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="image_height">140dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="margin_end">20dp</dimen>
+    <dimen name="margin_bottom_botton">10dp</dimen>
+    <dimen name="margin_bottom_scrollview">100dp</dimen>
+    <dimen name="height_bottomappbar">50dp</dimen>
+    <dimen name="width_botton">60dp</dimen>
+    <dimen name="height_botton">50dp</dimen>
+    <dimen name="margin_bottom_botton2">25dp</dimen>
+    <dimen name="margin_start_botton">330dp</dimen>
+</resources>
