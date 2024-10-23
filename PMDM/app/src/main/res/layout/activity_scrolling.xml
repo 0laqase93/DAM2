@@ -300,9 +300,9 @@
         android:id="@+id/plus"
         android:layout_width="@dimen/width_botton"
         android:layout_height="@dimen/height_botton"
-        android:layout_gravity="bottom"
+        android:layout_gravity="bottom|end"
         android:layout_marginBottom="@dimen/margin_bottom_botton2"
-        android:layout_marginStart="@dimen/margin_start_botton"
+        android:layout_marginEnd="@dimen/margin_end_botton"
         android:background="@drawable/rounded_image"
         android:text="@string/mas" />
 

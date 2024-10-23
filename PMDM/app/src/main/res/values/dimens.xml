@@ -14,5 +14,5 @@
     <dimen name="width_botton">60dp</dimen>
     <dimen name="height_botton">50dp</dimen>
     <dimen name="margin_bottom_botton2">25dp</dimen>
-    <dimen name="margin_start_botton">330dp</dimen>
+    <dimen name="margin_end_botton">20dp</dimen>
 </resources>
